@@ -4,7 +4,7 @@
 
 ## Lista Tabela Paginada com React
 
-Este é um projeto em React que implementa uma tela de lista/tabela paginada com recursos de pesquisa e ordenação. A tabela exibe dados fictícios gerados dinamicamente com a ajuda da biblioteca faker e permite ao usuário navegar entre as páginas, filtrar os dados por nome ou id, e classificar os dados por coluna.
+Este é um projeto em React que implementa uma tela de tabela paginada com recursos de pesquisa e ordenação. A <strong>tabela exibe dados fictícios gerados dinamicamente</strong> com a ajuda da <strong>biblioteca faker</strong> e permite ao usuário navegar entre as páginas, filtrar os dados por <strong>nome ou id</strong>, e classificar os dados por coluna.
 
 ## Requisitos do projeto
 
