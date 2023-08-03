@@ -15,16 +15,6 @@ Para executar este projeto, você precisará ter o seguinte instalado em sua má
 - Node.js e npm
 - Conhecimento básico de React e componentes
 
-## Tecnologias Utilizadas
-
-Este projeto foi desenvolvido utilizando as seguintes tecnologias e bibliotecas:
-
-```plaintext
-- React: Biblioteca JavaScript para construir interfaces de usuário.
-- react-paginate: Biblioteca para implementar a paginação na tabela.
-- faker: Biblioteca para gerar dados fictícios utilizados no projeto.
-- Bootstrap: Framework CSS para estilizar a aplicação.
-
 ## Tecnologias usadas
 
 <table>
