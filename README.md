@@ -1,9 +1,20 @@
 # Tabela Paginada
 
-Projeto desenvolvido em React
-## Available Scripts
+> Status: Developing 
+## Tecnologias usadas
 
-In the project directory, you can run:
+<table>
+    <tr>
+    <td>React</td>
+    <td>Faker</td>
+    <td>react-paginate</td>
+    </tr>
+    <tr>
+    <td>18.2.0</td>
+    <td>5.5.3</td>
+    <td>5.0.1</td>
+    </tr>
+</table>
 
 ### `npm start`
 
