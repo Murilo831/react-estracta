@@ -16,8 +16,27 @@
     </tr>
 </table>
 
-### `npm start`
+## Estrutura do projeto
 
-Roda o app em modo desenvolvedor
-Abrir [http://localhost:3000](http://localhost:3000) para ver no seu navegador
+- A pasta src contém os componentes React utilizados no projeto, como DataList, que exibe a tabela paginada.
+
+- O arquivo data.js contém a função para gerar dados fictícios utilizados no projeto.
+
+- O arquivo App.js é o componente principal do projeto, que contém o código da tela de lista/tabela paginada.
+
+- A pasta public contém o arquivo index.html, que é a página principal da aplicação.
+
+- Os arquivos package.json e package-lock.json são utilizados para gerenciar as dependências do projeto.
+
+## Instruções de instalação
+
+```bash
+# Clone este repositório para sua máquina local
+git clone https://github.com/seu-usuario/lista-tabela-paginada.git
+
+# Acesse a pasta do projeto
+cd lista-tabela-paginada
+
+# Instale as dependências do projeto
+npm install
 
