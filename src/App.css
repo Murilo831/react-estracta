@@ -1,0 +1,77 @@
+.table {
+  margin-top: 20px;
+}
+
+.h1 {
+  text-align: center;
+}
+
+input[type="text"] {
+  padding: 5px;
+  margin-top: 10px;
+  width: 250px;
+}
+
+.center-container {
+  text-align: center;
+}
+
+.center-input {
+  display: flex;
+  justify-content: center;
+}
+
+.search-input {
+  margin-bottom: 20px;
+  padding: 10px 15px;
+  width: 100%;
+  border: 1px solid #ccc;
+  border-radius: 20px;
+  font-size: 16px;
+  outline: none;
+  text-align: center;
+}
+
+/* Estilo para o input quando está em foco (quando é clicado) */
+.search-input:focus {
+  border-color: #007bff;
+  /* Mudar a cor da borda quando em foco */
+  box-shadow: 0 0 5px rgba(0, 123, 255, 0.5);
+  /* Adicionar sombra ao input em foco */
+}
+
+/* Estilo para a tabela */
+.table-container {
+  width: 80%;
+  margin: 0 auto;
+  padding: 20px;
+  background-color: #f9f9f9;
+  border-radius: 10px;
+  box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+}
+
+.table {
+  width: 100%;
+  border-collapse: collapse;
+}
+
+.table th,
+.table td {
+  padding: 10px;
+  text-align: center;
+}
+
+.table th {
+  background-color: #007bff;
+  color: #fff;
+  font-weight: bold;
+  border-bottom: 2px solid #ddd;
+}
+
+.table tbody tr:nth-child(even) {
+  background-color: #f2f2f2;
+}
+
+.table tbody tr:hover {
+  background-color: #eaf6ff;
+}
