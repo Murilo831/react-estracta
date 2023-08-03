@@ -18,15 +18,15 @@
 
 ## Estrutura do projeto
 
-- A pasta src contém os componentes React utilizados no projeto, como DataList, que exibe a tabela paginada.
+- A pasta `src` contém os componentes React utilizados no projeto, como `DataList`, que exibe a tabela paginada.
 
-- O arquivo data.js contém a função para gerar dados fictícios utilizados no projeto.
+- O arquivo `data.js` contém a função para gerar dados fictícios utilizados no projeto.
 
-- O arquivo App.js é o componente principal do projeto, que contém o código da tela de lista/tabela paginada.
+- O arquivo `App.js` é o componente principal do projeto, que contém o código da tela de lista/tabela paginada.
 
-- A pasta public contém o arquivo index.html, que é a página principal da aplicação.
+- A pasta `public` contém o arquivo `index.html`, que é a página principal da aplicação.
 
-- Os arquivos package.json e package-lock.json são utilizados para gerenciar as dependências do projeto.
+- Os arquivos `package.json` e `package-lock.json` são utilizados para gerenciar as dependências do projeto.
 
 ## Instruções de instalação
 
