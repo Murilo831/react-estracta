@@ -9,8 +9,10 @@ import './App.css';
 
 function App() {
 
-  const itemsPorPage = 25;
+  const itemsPorPage = 25;// dados por pagina
   const [currentPage, setCurrentPage] = useState(1);
+
+  // Divisão dos dados por pagina
   const pageCount = Math.ceil(fakeData.length / itemsPorPage);
 
   const handlePageChange = (selectedPage) => {

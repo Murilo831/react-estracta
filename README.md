@@ -2,7 +2,7 @@
 
 > Status: Developing 
 
-## Lista Tabela Paginada com React
+## Tabela Paginada com React
 
 Este é um projeto em React que implementa uma tela de tabela paginada com recursos de pesquisa e ordenação. 
 <br>
