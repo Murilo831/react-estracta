@@ -11,6 +11,10 @@ A <strong>tabela exibe dados fictícios gerados dinamicamente</strong> com a aju
 ## Requisitos do projeto
 
 - [x] Tabela de dados paginada
+- [x] Navegação de paginas
+- [x] API externa Faker para dados ficticios
+- [x] Design Responsivo
+
 
 ## Tecnologias usadas
 
