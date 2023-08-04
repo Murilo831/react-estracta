@@ -14,7 +14,7 @@ A <strong>tabela exibe dados fictícios gerados dinamicamente</strong> com a aju
 - [x] Navegação de paginas
 - [x] API externa Faker para dados ficticios
 - [x] Design Responsivo
-
+- [x] Pesquisa direta por NOME ou ID
 
 ## Tecnologias usadas
 
