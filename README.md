@@ -10,7 +10,6 @@ A <strong>tabela exibe dados fictícios gerados dinamicamente</strong> com a aju
 
 ## Requisitos do projeto
 
-```markdown
 - [x] Tabela de dados paginada
 
 ## Tecnologias usadas
