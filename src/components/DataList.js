@@ -7,8 +7,7 @@ const DataList = ({ itemsPorPage, currentPage }) => {
 
     const offset = (currentPage - 1) * itemsPorPage;
 
-
-    //Filta os valores por nome ou id
+    //Filtra os valores por nome ou id
     const filteredData = fakeData.filter(item => {
         const searchValue = searchTerm.toLowerCase();
         return (

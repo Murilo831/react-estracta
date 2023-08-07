@@ -19,11 +19,13 @@ function App() {
     setCurrentPage(selectedPage.selected + 1)
   };
 
+
   return (
     <div>
       <div className="center-container ">
         <h1>Tabela Paginada</h1>
       </div>
+
 
       <DataList data={fakeData} itemsPorPage={itemsPorPage} currentPage={currentPage} />
       <Pagination pageCount={pageCount} onPageChange={handlePageChange} />
