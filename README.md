@@ -1,6 +1,6 @@
 # Tabela Paginada
 
-> Status: Developing 
+> Status: Completo 
 
 ## Tabela Paginada com React
 
@@ -47,7 +47,7 @@ A <strong>tabela exibe dados fictícios gerados dinamicamente</strong> com a aju
 
 ```bash
 # Clone este repositório para sua máquina local
-git clone https://github.com/seu-usuario/lista-tabela-paginada.git
+git clone https://github.com/Murilo831/lista-tabela-paginada.git
 
 # Acesse a pasta do projeto
 cd lista-tabela-paginada
