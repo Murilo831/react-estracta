@@ -47,11 +47,16 @@ A <strong>tabela exibe dados fictícios gerados dinamicamente</strong> com a aju
 
 ```bash
 # Clone este repositório para sua máquina local
-git clone https://github.com/Murilo831/lista-tabela-paginada.git
+git clone https://github.com/Murilo831/react-estracta.git
 
 # Acesse a pasta do projeto
-cd lista-tabela-paginada
+cd react-estracta
 
 # Instale as dependências do projeto
 npm install
 
+# Instale o react-paginate
+npm install react-paginate
+
+# Instale o bootstrap
+npm install bootstrap
